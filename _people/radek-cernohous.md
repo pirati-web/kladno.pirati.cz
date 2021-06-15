@@ -1,6 +1,7 @@
 ---
 uid: radek.cernohous
 name: Radek Černohous  	# běžně používáné jméno
+redirect_to: https://lide.pirati.cz/profil/2961/
 titles:
   before:
   after:
