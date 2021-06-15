@@ -1,6 +1,7 @@
 ---
 uid: lucie.chocholova
 name: Lucie Chocholová  	# běžně používáné jméno
+redirect_to: https://lide.pirati.cz/profil/2735/
 titles:
   before:
   after:
